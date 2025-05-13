@@ -9,6 +9,6 @@
  */
 public class petshop {
      int bao;
- gugbjbjhbkkb
+  int baobao ;
     
 }
